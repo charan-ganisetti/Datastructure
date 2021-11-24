@@ -1,7 +1,7 @@
 public class insertion2{
     public static void main(String[] args){
-        //int a[]={10,34,6,2,45,23,56,32};
-        int a[]={1,2,3,4};
+        int a[]={10,34,6,2,45,23,56,32};
+        
         int i,j,k,temp,min;
         System.out.print("array elements before soring ");
         for(k=0;k<a.length;k++){
